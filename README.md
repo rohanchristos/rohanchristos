@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is ROHAN GHOSH and I'm a Aspiring Software Engineer ,
-
 <h2 align="left">Hi 👋! My name is Rohan Ghosh... and I'm looking for new roles .<br>passionate about GEN AI, DSA, cybersecurity</h2>
 
 ###
