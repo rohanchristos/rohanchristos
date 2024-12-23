@@ -25,24 +25,7 @@ Hey there! I'm Rohan Ghosh, a passionate and driven Computer Engineering student
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-rohanchristos)
-- [Twitter](https://twitter.com/your-twitter-username)
 - [Personal Website/Blog](https://hashnode.com/@RohanGhosh)
 
-## 📚 My Projects
-Here are a few highlights of my projects. Check out my repositories for more!
-
-### Project 1: Game Development with C++
-A thrilling game built with C++ showcasing my skills in game development and object-oriented programming.
-
-### Project 2: Full-Stack Web Application
-A web application developed using Spring Boot and the MERN stack, featuring a responsive design and robust backend.
-
-### Project 3: Mobile App in Kotlin
-An innovative mobile application developed in Kotlin, focusing on user experience and performance optimization.
-
-### Project 4: Cybersecurity Tools
-A collection of tools and scripts aimed at enhancing digital security and protecting against various threats.
-
----
-
+  
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me. Let's build something amazing together! 😊
