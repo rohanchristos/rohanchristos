@@ -24,7 +24,7 @@ Hey there! I'm Rohan Ghosh, a passionate and driven Computer Engineering student
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanchristos&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-rohanchristos)
+- [LinkedIn](https://www.linkedin.com/in/rohan-ghosh-50397b20a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Personal Website/Blog](https://hashnode.com/@RohanGhosh)
 
   
